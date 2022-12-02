@@ -1,3 +1,14 @@
-# ros2-project-template
+# usage
 
-Project template for ROS2
+```txt
+$ sudo python3 thermal.py 
+[sudo] password for autoware: 
+12 cores
+,0,,1,,2,,3,,4,,5,,6,,7,,8,,9,,10,,11,,
+,flag,degree,flag,degree,flag,degree,flag,degree,flag,degree,flag,degree,flag,degree,flag,degree,flag,degree,flag,degree,flag,degree,flag,degree,
+2022-12-02 09:06:06.148616 ,0,42,0,54,0,44,0,40,0,60,0,39,0,52,0,51,0,51,0,49,0,47,0,40,
+2022-12-02 09:06:07.164817 ,0,40,0,42,0,41,0,47,0,57,0,39,0,41,0,43,0,41,0,51,0,57,0,40,
+2022-12-02 09:06:08.184240 ,0,39,0,41,0,38,0,45,0,39,0,39,0,40,0,41,0,39,0,53,0,41,0,40,
+2022-12-02 09:06:09.200093 ,0,39,0,40,0,38,0,43,0,39,0,52,0,40,0,40,0,39,0,51,0,40,0,60,
+```
+
